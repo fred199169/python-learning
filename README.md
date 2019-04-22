@@ -1,2 +1,4 @@
 # python-learning
-self learning python
+
+
+Just for self learning python.
